@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"experiences": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"CompanyName": "Intuit",
+			"Title": "Software Engineer 2",
+			"Description": "Worked in their Billing and Subscription Team",
+			"Year": "2023-2024"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"CompanyName": "StockX",
+			"Title": "Software Engineer",
+			"Description": "Worked in their Payments and Payouts Team",
+			"Year": "2021-2023"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"CompanyName": "Societe Generale",
+			"Title": "Specialist Software Engineer ",
+			"Description": "Worked in their Reconciliation Team",
+			"Year": "2019-2021"
 		}
 	]
 }
